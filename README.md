@@ -2,7 +2,11 @@ This is the forthcoming public repository for the Beeminder Android app!
 
 It's currently a private repo called beedroid-hist and the idea is to get anything that shouldn't be public out of the code and then copy the latest snapshot of the code here. Then we'll still have the full history up to that point in a private repo and the history after that point in this public repo.
 
-This repo started life as a dummy repo for publicly tracking Issues for the Android app. Following is the original README contents from then.
+This repo started life as a dummy repo for publicly tracking Issues for the Android app. 
+
+See [blog.beeminder.com/buglabels](http://blog.beeminder.com/buglabels) for our issue label ontology.
+
+Following is the original README contents from then.
 
 [Beeminder](http://www.beeminder.com) is a goal tracking system with an effective incentive mechanism to prevent and discourage procrastination and [akratic behavior](https://en.wikipedia.org/wiki/Akrasia). Our website provides [a more comprehensive overview](https://www.beeminder.com/overview) as well as specific guides on how to start accomplishing your longest standing but persistently elusive goals. 
 
